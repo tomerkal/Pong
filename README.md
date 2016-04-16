@@ -1,2 +1,2 @@
 # Pong
-My implementation of the classic game pong using Java
+My implementation of the classic game pong (Java)
